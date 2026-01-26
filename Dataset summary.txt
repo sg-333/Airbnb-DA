@@ -1,0 +1,22 @@
+Dataset Name: Airbnb Listings Bangkok
+Source: Kaggle (Airbnb Bangkok (samuelsemaya))
+
+Dataset Overview:
+
+This dataset contains Airbnb listings in Bangkok, including pricing, room types, availability, reviews, and host information.
+1. id - Airbnb's unique identifier for the listing.
+2. name - Name of the listing.
+3. host_id - Airbnb's unique identifier for the host/user.
+4. host_name - Name of the host. Usually, just the first name(s).
+5. neighborhood - The neighborhood is geocoded using the latitude and longitude against neighborhoods as defined by open or public - digital shapefiles.
+6. latitude - Uses the World Geodetic System (WGS84) projection for latitude and longitude.
+7. longitude - Uses the World Geodetic System (WGS84) projection for latitude and longitude.
+8. room_type - [Entire home/apt |Private room| Shared room| Hotel]
+9. price - Daily price in local currency. Note, the $ sign may be used despite the locale.
+10. minimum_nights - The minimum number of night stays for the listing (calendar rules may differ).
+11. number_of_reviews - The number of reviews the listing has.
+12. last_review - The date of the last/newest review.
+13. calculated_host_listings_count - The number of listings the host has in the current scrape in the city/region geography.
+14. availability_365 - The calendar determines the availability of the listing x days in the future. Note a listing may - be available because it has been booked by a guest or blocked by the host.
+15. number_of_reviews_ltm - The number of reviews the listing has (in the last 12 months).
+
