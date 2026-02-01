@@ -6,6 +6,7 @@ The analysis includes data cleaning, visualization, and feature exploration.
 
 **Dataset:** Airbnb Listings Bangkok.csv  
 **Source:** Kaggle (https://www.kaggle.com/datasets/samuelsemaya/airbnb-bangkok-samuelsemaya?select=cleaned_data_bangkok.csv)
+
 **Rows:** 10,000+ listings  
 **Columns include:** id, name, host_id, host_name, neighbourhood, latitude, longitude, room_type, price, minimum_nights, number_of_reviews, last_review, calculated_host_listings_count, number_of_reviews_ltm, availability_3365.  
 Some columns required cleaning, missing value handling, and transformation.
