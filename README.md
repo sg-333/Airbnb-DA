@@ -36,4 +36,3 @@ Some columns required cleaning, missing value handling, and transformation.
 1. Clone the repository:
 2. Install required packages:
 3. Open the Jupyter Notebook `project.ipynb` and run the cells step by step.
-
