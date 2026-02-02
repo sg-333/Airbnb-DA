@@ -26,8 +26,9 @@ Some columns required cleaning, missing value handling, and transformation.
 
 
 **Key Insights:**
-- Most listings are concentrated in entire home/apartments and private homes.
-- Prices vary widely by room type and location.
+- Most listings are dominated by entire home/apartments and private homes.
+- Most listings shows shorter stay requirements, meaning they are tourists focused market.
+- Numerical features show weak linear relationships with price, indicating that categorical and locational factors play a larger role in pricing.
 - Number of reviews correlates with price and availability of listings.
 - Outliers in price and minimum_nights were identified and treated.
 
